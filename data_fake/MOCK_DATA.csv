@@ -1,0 +1,101 @@
+id,order_date,total_due,note,shipping_fee,VAT,discount,typeofdiscount,status,id_cus,reason_cancel,total_quantity,cus_name,phone,email,order_address
+1,2022-03-17,115134,,47,34,81,,,37,,1,Pasquale,5792055467,pgurner0@ft.com,8 Aberg Point
+2,2022-01-02,703799,,92,64,45,,,73,,2,Stesha,8358521200,ssugge1@photobucket.com,845 Prentice Court
+3,2022-03-27,937678,,67,75,7,,,4,,3,Doloritas,5194094183,dcawt2@illinois.edu,9 Beilfuss Hill
+4,2021-10-24,304269,,38,72,8,,,67,,4,Dolores,6830753872,dlainge3@admin.ch,481 Derek Road
+5,2022-08-01,440046,,85,4,48,,,59,,5,Crista,5601300445,cjenno4@cbslocal.com,82 Mosinee Point
+6,2022-02-10,365599,,42,47,49,,,17,,6,Perle,2356578129,psammons5@51.la,8 Summer Ridge Road
+7,2022-04-13,43477,,46,95,39,,,55,,7,Orsola,3015914448,omccathay6@trellian.com,554 Delladonna Drive
+8,2022-04-09,586130,,7,60,24,,,52,,8,Klarrisa,7576400218,kridges7@biglobe.ne.jp,0914 Dakota Avenue
+9,2022-01-06,979220,,78,83,58,,,41,,9,Adaline,8729642175,akubicki8@webs.com,75542 Delaware Trail
+10,2022-01-12,691606,,95,36,62,,,2,,10,Art,1536525413,abard9@taobao.com,93146 Eagle Crest Place
+11,2022-05-17,573144,,21,11,91,,,34,,11,Brigit,8824484166,bflaga@cisco.com,0562 Waubesa Parkway
+12,2022-07-20,50764,,12,94,51,,,35,,12,Carlie,0365465488,ctummonsb@51.la,02058 Monument Road
+13,2021-09-14,663676,,12,91,39,,,54,,13,Amber,0682062197,astuddertc@i2i.jp,6 Farwell Lane
+14,2021-11-30,871147,,56,57,38,,,99,,14,Alameda,5719691944,amathond@noaa.gov,2 Hallows Road
+15,2022-05-06,536130,,80,10,76,,,72,,15,Rawley,6156332502,rmartynkae@google.com.au,861 2nd Terrace
+16,2022-08-18,890903,,8,66,94,,,89,,16,Rosemarie,9417234544,rmiallf@nih.gov,00 Northland Crossing
+17,2022-01-31,577070,,96,16,6,,,78,,17,Elizabet,8786661965,ejeffelsg@wikimedia.org,97 Mosinee Lane
+18,2022-06-01,10500,,35,84,45,,,75,,18,Jakob,8969799699,jginnellh@taobao.com,10 Corry Street
+19,2022-05-20,867828,,97,92,35,,,5,,19,Leda,4410529889,lgosforthi@baidu.com,1244 Ridge Oak Center
+20,2021-11-17,873278,,69,30,32,,,61,,20,Mallissa,2048766927,mbouldenj@wordpress.com,5413 Macpherson Alley
+21,2022-01-16,819076,,87,42,73,,,51,,21,Olva,4692805293,osweatmank@soundcloud.com,42312 Westerfield Way
+22,2021-08-21,153651,,8,32,38,,,69,,22,Andree,4037106744,akruschovl@networkadvertising.org,0 Hanover Terrace
+23,2022-03-21,623190,,68,13,32,,,31,,23,Morissa,6423251290,mlowdwellm@dedecms.com,21 Ruskin Circle
+24,2022-07-15,93041,,55,16,55,,,15,,24,Vicky,7640847923,vallrightn@fotki.com,31191 Swallow Junction
+25,2021-11-03,326581,,89,30,77,,,56,,25,Giavani,4627810466,ggrishmanovo@webeden.co.uk,266 Blaine Parkway
+26,2022-03-09,310531,,29,48,96,,,19,,26,Elianore,0599107375,eburgherp@earthlink.net,496 Pleasure Parkway
+27,2022-05-05,511915,,57,77,66,,,4,,27,Duncan,4291045212,dpilgerq@nature.com,943 Hoard Lane
+28,2021-08-29,137681,,10,12,33,,,19,,28,Lorilee,7436250574,llochrier@bbb.org,10 Bayside Junction
+29,2022-01-18,567737,,85,77,89,,,40,,29,Jarret,6820596103,jpithers@discovery.com,0324 Fieldstone Pass
+30,2021-09-25,462672,,32,17,4,,,63,,30,Tod,8165871803,tcatchpolet@moonfruit.com,495 Northridge Terrace
+31,2021-09-07,503544,,29,74,41,,,5,,31,Shaun,5414521603,swinscombu@nytimes.com,556 Artisan Circle
+32,2022-01-25,726795,,65,96,90,,,86,,32,Friedrick,4506108051,fsimenelv@blogs.com,225 Prentice Plaza
+33,2021-11-10,825388,,53,62,28,,,35,,33,Elsie,9535009494,esansomw@cafepress.com,032 Arizona Road
+34,2021-10-02,583963,,45,12,40,,,51,,34,Standford,6132857206,sgoodbarrx@mediafire.com,3039 Superior Park
+35,2022-06-23,744749,,50,25,77,,,62,,35,Janelle,0262328496,jsplainy@mapquest.com,60 Express Way
+36,2021-09-12,886469,,42,30,5,,,22,,36,Claire,2807092470,crohloffz@ehow.com,936 Menomonie Point
+37,2022-06-15,875008,,67,10,79,,,89,,37,Rosy,9306557671,rjaquest10@xinhuanet.com,45 Emmet Place
+38,2021-10-11,555929,,62,94,15,,,44,,38,Gayleen,8592045533,gwrigley11@unesco.org,02238 Meadow Ridge Plaza
+39,2022-01-06,20542,,19,85,50,,,37,,39,Killian,0775657263,kheathorn12@joomla.org,1780 Farragut Way
+40,2022-03-21,270974,,54,39,53,,,76,,40,Guilbert,3279524695,gfenich13@wordpress.com,465 Chive Hill
+41,2022-03-05,864813,,36,92,64,,,91,,41,Coral,7330743518,cgogin14@vistaprint.com,83 Sunnyside Plaza
+42,2022-03-10,18823,,81,49,85,,,84,,42,Paxon,7748598665,pbentick15@forbes.com,1 Lakewood Gardens Drive
+43,2022-04-12,18388,,85,47,53,,,57,,43,Kaila,3659039330,kreeveley16@fotki.com,7 Miller Crossing
+44,2022-01-12,67211,,68,30,55,,,52,,44,Francisca,2985589592,ffabri17@usatoday.com,43281 Michigan Center
+45,2021-12-06,249570,,24,41,48,,,18,,45,Claresta,5009575426,cshoutt18@earthlink.net,0280 Kingsford Drive
+46,2021-11-07,609808,,19,93,93,,,2,,46,Beau,3401610244,bpennyman19@mac.com,77188 Manufacturers Road
+47,2022-08-03,331126,,66,15,2,,,25,,47,Sancho,2698536322,srashleigh1a@booking.com,278 Rutledge Court
+48,2022-07-08,312202,,97,40,98,,,14,,48,Cletus,7412046446,cozelton1b@is.gd,92481 Warner Lane
+49,2021-10-17,890070,,78,53,51,,,82,,49,Karena,5397605042,kcotelard1c@furl.net,10614 Karstens Plaza
+50,2022-05-01,433027,,36,79,94,,,61,,50,Reeva,8563370464,rpoore1d@forbes.com,81 New Castle Alley
+51,2021-09-01,517714,,17,60,95,,,55,,51,Jessamine,7985707875,jbebbington1e@si.edu,419 Mallory Alley
+52,2022-04-24,496302,,27,94,46,,,91,,52,Dasya,4891620390,dbarrington1f@sogou.com,6 Glacier Hill Hill
+53,2022-08-15,238616,,70,47,15,,,50,,53,Christi,3936191174,cdallosso1g@friendfeed.com,43376 Raven Parkway
+54,2022-02-03,131765,,70,10,45,,,8,,54,Archibold,3633818804,aklass1h@joomla.org,2297 Gulseth Alley
+55,2021-12-14,453077,,62,92,18,,,76,,55,Leif,5895955134,ldohmann1i@dion.ne.jp,2182 Lakewood Avenue
+56,2022-03-05,825995,,38,62,24,,,40,,56,Spencer,4676196598,shubbold1j@vinaora.com,1630 Northview Lane
+57,2022-03-29,544601,,99,10,29,,,18,,57,Jakob,8997800507,jparadis1k@ihg.com,72162 Scott Road
+58,2022-07-26,235847,,3,57,7,,,38,,58,Dorise,3463698471,dpapachristophorou1l@hhs.gov,85 Grayhawk Trail
+59,2022-01-26,119520,,43,23,63,,,24,,59,Fanya,0568268075,fwaugh1m@hatena.ne.jp,03385 Toban Plaza
+60,2022-02-04,650240,,33,59,20,,,38,,60,Yvonne,5410336704,ydomone1n@360.cn,78426 Moulton Junction
+61,2021-10-07,475210,,37,86,18,,,25,,61,Bret,4504501570,bdiantonio1o@bbc.co.uk,1895 Sheridan Street
+62,2022-06-04,927898,,51,8,34,,,95,,62,Onfre,2513572246,orowbottom1p@vkontakte.ru,83 Brentwood Drive
+63,2022-05-24,174833,,60,65,6,,,57,,63,Conchita,4904220277,choldey1q@irs.gov,7295 Jay Crossing
+64,2022-02-27,265891,,100,67,10,,,100,,64,Wynne,1635678420,wlangrish1r@google.com.br,76166 4th Pass
+65,2021-08-29,207738,,18,42,92,,,31,,65,Ninnette,6498135107,nseargeant1s@jigsy.com,60 7th Terrace
+66,2021-10-10,891729,,84,38,2,,,53,,66,Wright,1884048889,wchalfant1t@wikipedia.org,0622 Anthes Avenue
+67,2021-12-11,491618,,62,23,63,,,81,,67,Eliot,8567930367,ebeldham1u@soundcloud.com,68871 Rutledge Plaza
+68,2022-08-12,309189,,74,80,49,,,22,,68,Theresina,3982963281,tmaccole1v@cornell.edu,56901 Loeprich Pass
+69,2021-09-29,632441,,65,25,84,,,64,,69,Jess,4044852243,jboerder1w@hibu.com,87 Pond Point
+70,2021-10-13,737031,,91,15,37,,,59,,70,Lexis,1208937731,lbraybrooke1x@utexas.edu,301 Canary Crossing
+71,2021-11-04,839917,,89,28,22,,,6,,71,Donny,4163755306,dmorgon1y@histats.com,1 Rockefeller Lane
+72,2022-01-24,989546,,85,61,26,,,21,,72,Aleksandr,8773901237,aplampeyn1z@state.gov,88 Di Loreto Court
+73,2022-08-09,15159,,9,16,83,,,32,,73,Dougie,1686193351,dbarthram20@wp.com,2 Harbort Road
+74,2021-10-28,893982,,51,69,16,,,59,,74,Vic,7320896788,vjeanesson21@sitemeter.com,71 Nova Center
+75,2021-08-28,226310,,70,44,22,,,49,,75,Elly,7055181526,ebotfield22@ftc.gov,6659 Mcguire Place
+76,2022-02-23,480524,,62,87,91,,,83,,76,Helga,8267963596,hashwell23@github.io,89492 Green Ridge Crossing
+77,2021-12-16,330522,,75,90,22,,,63,,77,Brok,6658079005,bfylan24@hhs.gov,3741 Stoughton Trail
+78,2022-02-18,454313,,72,9,16,,,18,,78,Merle,8290532059,mmcchesney25@prnewswire.com,2 Burrows Road
+79,2021-09-29,922626,,94,3,65,,,74,,79,Beatrix,6912657419,bmolloy26@istockphoto.com,89708 Continental Place
+80,2021-10-11,152365,,97,57,89,,,28,,80,Tobi,8484191680,tsherlock27@amazon.com,77506 Hoffman Drive
+81,2022-06-07,512675,,1,8,50,,,9,,81,Esdras,8350628499,elineham28@amazon.co.uk,539 Shopko Way
+82,2021-11-16,600477,,18,76,10,,,47,,82,Jamie,9514269926,jcapaldo29@privacy.gov.au,457 Independence Terrace
+83,2022-05-22,62218,,45,24,88,,,84,,83,Sher,1968813128,sstratz2a@usatoday.com,734 Orin Crossing
+84,2022-07-10,259108,,51,15,76,,,55,,84,Ezmeralda,9718906355,etwydell2b@privacy.gov.au,5495 Blue Bill Park Center
+85,2022-07-23,965720,,57,78,43,,,6,,85,Travers,5853648187,ttittershill2c@gov.uk,95 Summer Ridge Drive
+86,2022-04-06,79476,,25,73,45,,,38,,86,Nelia,4110138337,nnorledge2d@jiathis.com,64007 Orin Point
+87,2022-07-21,701771,,82,33,73,,,4,,87,Renate,4210271144,rcicccitti2e@wordpress.org,01 Westerfield Way
+88,2022-04-18,267685,,97,26,34,,,79,,88,Perl,7680199086,pchristensen2f@europa.eu,57 Moland Parkway
+89,2021-10-27,131419,,31,48,40,,,93,,89,Christean,2276338202,cpennock2g@wired.com,4 Autumn Leaf Park
+90,2022-03-15,17596,,86,76,75,,,13,,90,Steffi,1003779883,smanhare2h@g.co,89593 Oak Valley Road
+91,2022-01-10,426767,,51,53,55,,,99,,91,Sidonia,0918962315,scheers2i@microsoft.com,17 Clemons Circle
+92,2022-02-24,563033,,5,64,66,,,22,,92,Wallie,1281530514,wconibere2j@pcworld.com,4316 Fisk Pass
+93,2022-05-05,641277,,53,35,15,,,21,,93,Berny,6225765441,btibald2k@tripadvisor.com,93 Bultman Point
+94,2021-09-29,436234,,77,63,54,,,29,,94,Olvan,6707176005,omawditt2l@yolasite.com,992 New Castle Terrace
+95,2021-12-11,739243,,92,74,68,,,94,,95,Sutherlan,8113950494,sriseam2m@reddit.com,6 Meadow Vale Road
+96,2022-02-26,307901,,98,58,77,,,31,,96,Nicolais,1167559606,nilem2n@samsung.com,5 Gale Road
+97,2022-07-19,470931,,66,61,89,,,81,,97,Cass,0741247194,cblowfelde2o@mapy.cz,466 Burning Wood Pass
+98,2022-07-06,699973,,2,31,14,,,10,,98,Corena,3496241454,cbellhanger2p@ucoz.ru,63007 Maryland Lane
+99,2022-07-08,511413,,58,85,29,,,83,,99,Ulrika,1752453352,uwealthall2q@rediff.com,7509 Cherokee Parkway
+100,2021-12-09,486661,,62,19,38,,,67,,100,Arleyne,6388754392,agodbolt2r@nytimes.com,403 Onsgard Center
